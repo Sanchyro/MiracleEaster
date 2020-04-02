@@ -1,0 +1,9 @@
+main: me.almostsomeone.miracleeaster.Main
+name: MiracleEaster
+version: 1.0
+description: An custom easter event
+author: AlmostSomeone
+website: www.miraclepvp.net
+commands:
+  easter:
+    description: Easter Event Main Command
